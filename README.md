@@ -1,16 +1,18 @@
-## Hi there 👋
+## !Hola👋 que tal soy leo¡ 
+una pequeña presentacion --> soy un joven con nacionalidad peruana de 19 años con gran pasion sobre la programacion con el sueño de poder desarrollar videojuegos:D 
+Aqui comienza mi camino
 
-<!--
-**devleo-c/devleo-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador principiante en C++
+🚀 Estoy aprendiendo programación y creando proyectos pequeños útiles.  
+🎯 Mi meta: crecer como programador y con fe tratar de ayudar a otros con mis programas.  
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías que manejo
+- Lenguajes: C++ (nivel basico)
+- IDEs: Code::Block (por ahora)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📂 Proyectos destacados
+
+## 🌱 Actualmente aprendiendo
+
+---
